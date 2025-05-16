@@ -3,11 +3,13 @@
 This project contains a SQL file and a raw dataset of layoffs of different companies all over the world.
 
 Contents:
-'Data_Cleaning.sql' : SQL queries used to clean the data and prepare for analysis and visualization.
+'Data_Cleaning.sql' : SQL queries used to clean the data and prepare for analysis.
+'EDA.sql' : SQL queries used to do EDA or Exploratory Data Analysis which can be used for visualization.
 'layoffs.csv': The raw dataset containing different companies all over the world that had layoffs from the year 2020 to 2023.
 
 Goals:
-To clean the data and prepare for analysis and visualization.
+To clean the data and prepare for analysis.
+To gain insights, trends, and patterns and prepare it for visualization.
 To show confidence, knowledge, and skills on using SQL queries.
 
 Softwares used:
